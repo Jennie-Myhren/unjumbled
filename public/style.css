@@ -1,6 +1,11 @@
+#app {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: black;
+}
+
 /* NavBar Formatting */
 #navbar {
-  background-color: aquamarine;
+  background-color: #f93b81;
 }
 
 .container {
@@ -19,4 +24,6 @@
 #logo {
   width: 1 rem;
   flex: 2;
+  /* font-family: 'Zhi Mang Xing', cursive; */
+  font-family: 'Gloria Hallelujah', cursive;
 }

@@ -1,0 +1,17 @@
+{
+  "name": "unjumbled",
+  "version": "1.0.0",
+  "description": "writer tool for organizing notes, research and chapters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "react": "^16.12.0",
+    "react-redux": "^7.1.3",
+    "react-router-dom": "^5.1.2"
+  }
+}

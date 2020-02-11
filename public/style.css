@@ -1,0 +1,22 @@
+/* NavBar Formatting */
+#navbar {
+  background-color: aquamarine;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-end;
+  /* margin: 10px; */
+  /* justify-items: flex-end; */
+  align-items: center;
+}
+
+.navText,
+#logo {
+  margin: 5px;
+}
+
+#logo {
+  width: 1 rem;
+  flex: 2;
+}

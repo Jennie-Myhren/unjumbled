@@ -8,7 +8,7 @@ const Navbar = () => {
 
   return (
     <div id="navbar">
-      <div className="container">
+      <div className="navContainer">
         <Logo />
         {user ? (
           <p className="navText">Welcome, {user}</p>
